@@ -4,7 +4,7 @@
 
 - What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 
-How a restaurant can improve their customer satisfaction based on the reviews of their clients.
+How a restaurant can improve their customer satisfaction based on the reviews of their clients?
 
 - Who benefits from exploring this question or building this model/system?
 
