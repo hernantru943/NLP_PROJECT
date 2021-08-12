@@ -22,7 +22,7 @@ a Database from Kaggle https://www.kaggle.com/vigneshwarsofficial/reviews
 
 - If modeling, what will you predict as your target?
 
-For modeling I'd use the positive or negative review identified as the column "Liked" where 1 is positive and 0 is negative.
+For modeling I'll use the positive or negative review identified as the column "Liked" where 1 is positive and 0 is negative.
 
 ### Tools:
 
