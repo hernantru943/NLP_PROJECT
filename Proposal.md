@@ -40,5 +40,5 @@ Not by now
 
 - What would a minimum viable product (MVP) look like for this project?
 
-A minimum MVP could be a base Logistic Regression Model with an initial F1 score.
+A minimum MVP could be a base Topic Modeling on the initial corpus reviews.
 
